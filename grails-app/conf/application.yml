@@ -138,6 +138,6 @@ environments:
 
 ---
 # set a context path for your application
-server:
-        servlet:
-            context-path: /home
+#server:
+#        servlet:
+#            context-path: /home
